@@ -1,4 +1,4 @@
-# Obfuscated with Xersus
+# Obfuscated by Xersus
 # https://www.facebook.com/xersuswu
 # Time : Mon Nov 27 13:44:57 2023
 # -------------------------------
